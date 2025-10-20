@@ -1,5 +1,4 @@
 FROM nginx:latest
 COPY index.html /usr/share/nginx/html/index.html
-RUN ls
-RUN pwd
-RUN echo "Hi, from Matt"
+# RUN pip3 install flask
+# CMD ["python3", "docker-flask.py"]
