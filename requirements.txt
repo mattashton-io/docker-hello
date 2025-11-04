@@ -1,0 +1,9 @@
+Flask
+matplotlib
+requests
+google-cloud-secret-manager
+google-cloud-storage
+google-cloud-translate
+google-cloud-texttospeech
+google-cloud-vision
+google-generativeai
